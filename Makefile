@@ -1,7 +1,7 @@
 rsdl=rsdl.cpp -l SDL2 -l SDL2_image -l SDL2_ttf -l SDL2_mixer
 compile=g++ -std=c++11
-inc = ./includes
-src = ./Src
+inc = . #./includes
+src = . #./Src
 
 all : FieldRunners.out
 
