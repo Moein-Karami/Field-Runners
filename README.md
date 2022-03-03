@@ -1,6 +1,6 @@
 # Field-Runners
-A simple implementation of Field Runners game with c++
+I have made a simple development of the Field Runners game in C++ language in this project.
 
-Attention: These programs probably won't compile due to organization files;
-you may write a new makefile to compile these programs, or just put all the .c,
-.cpp, .hpp, .h, and makefile to one directory.
+Attention: Due to the organization of files, these program probably won't compile;
+To compile these program, write a new makefile or put all the .c,
+.cpp, .hpp, .h, and makefiles in one directory.
